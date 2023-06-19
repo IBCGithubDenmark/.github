@@ -1,1 +1,1 @@
-# .github
+# github public info repo
